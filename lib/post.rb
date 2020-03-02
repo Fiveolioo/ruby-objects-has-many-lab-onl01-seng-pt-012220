@@ -5,7 +5,6 @@ class Post
  
   def initialize(name)
     @name = name
-    @title
     save
   end
  
